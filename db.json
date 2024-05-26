@@ -26,33 +26,6 @@
         "dni": "12348765C",
         "phone": "+34123456791",
         "photoUrl": "https://github.com/aksoonie/mindcare-db.json/assets/134560396/82af9c27-f11b-43d4-8ca5-4a1f8ac9ce85"
-      },
-      {
-        "id": "4",
-        "name": "Carlos",
-        "lastName": "Rodríguez",
-        "email": "carlos.rodriguez@hotmail.com",
-        "dni": "87651234D",
-        "phone": "+34123456792",
-        "photoUrl": "https://github.com/aksoonie/mindcare-db.json/assets/134560396/5bbf6d9b-9b43-4f0e-9d45-d3a2d48c4415"
-      },
-      {
-        "id": "5",
-        "name": "Laura",
-        "lastName": "Pérez",
-        "email": "laura.perez@hotmail.com",
-        "dni": "12347654E",
-        "phone": "+34123456793",
-        "photoUrl": "https://github.com/aksoonie/mindcare-db.json/assets/134560396/5a2b9aa6-c2f2-40cb-9307-9f316f58eae7"
-      },
-      {
-        "id": "6",
-        "name": "Ramiro",
-        "lastName": "Pérez",
-        "email": "ramiro.perez@hotmail.com",
-        "dni": "87654321F",
-        "phone": "+34123456794",
-        "photoUrl": "https://github.com/aksoonie/mindcare-db.json/assets/134560396/ac72b4e2-b88d-4869-8aea-17d772b466ea"
       }
     ],
     "patients": [
@@ -120,58 +93,6 @@
         "description": "Julia es una abogada corporativa con experiencia en derecho comercial internacional.",
         "gender": "Femenino",
         "birthday": "1985-08-14"
-      },
-      {
-        "id": "6",
-        "name": "Romina",
-        "lastName": "Carrasco",
-        "email": "romina.carrasco@hotmail.com",
-        "dni": "87654321L",
-        "phone": "+34123456800",
-        "photoUrl": "https://github.com/aksoonie/mindcare-db.json/assets/134560396/a0182f87-c4e1-4bb7-99ce-652ea93d830c",
-        "occupation": "Chef",
-        "description": "Romina es una chef profesional que posee un restaurante popular en la ciudad.",
-        "gender": "Femenino",
-        "birthday": "1988-12-01"
-      },
-      {
-        "id": "7",
-        "name": "Julio",
-        "lastName": "Velasquez",
-        "email": "julio.velasquez@hotmail.com",
-        "dni": "12345678M",
-        "phone": "+34123456801",
-        "photoUrl": "https://github.com/aksoonie/mindcare-db/assets/134560396/cd2f5222-79bc-4e1a-8af0-f4214cdf5c28",
-        "occupation": "Arquitecto",
-        "description": "Julio es un arquitecto conocido por sus innovadores diseños de edificios.",
-        "gender": "Masculino",
-        "birthday": "1982-07-30"
-      },
-      {
-        "id": "8",
-        "name": "Noah",
-        "lastName": "Santos",
-        "email": "noah.santos@hotmail.com",
-        "dni": "87654321N",
-        "phone": "+34123456802",
-        "photoUrl": "https://github.com/aksoonie/mindcare-db/assets/134560396/0f5b4eab-2c2d-4d8d-b0fb-c177328be624",
-        "occupation": "Fotógrafo",
-        "description": "Noah es un fotógrafo freelance con pasión por la fotografía de viajes y naturaleza.",
-        "gender": "Masculino",
-        "birthday": "1994-01-18"
-      },
-      {
-        "id": "9",
-        "name": "María",
-        "lastName": "Del Condor",
-        "email": "maria.delcondor@hotmail.com",
-        "dni": "12345678O",
-        "phone": "+34123456803",
-        "photoUrl": "https://github.com/aksoonie/mindcare-db/assets/134560396/fb1878f6-9fe3-4b32-9f5e-7e3f8c125f2e",
-        "occupation": "Científica",
-        "description": "Maria es una cientifica que realiza investigaciones en energías renovables.",
-        "gender": "Femenino",
-        "birthday": "1987-09-25"
       }
     ],
     "dates": [
