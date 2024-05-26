@@ -8,24 +8,6 @@
         "dni": "12345678A",
         "phone": "+34123456789",
         "photoUrl": "https://github.com/aksoonie/mindcare-db.json/assets/134560396/442649e9-164c-45b7-a58d-65146e0b886e"
-      },
-      {
-        "id": "2",
-        "name": "Juan",
-        "lastName": "Martínez",
-        "email": "juan.martinez@hotmail.com",
-        "dni": "87654321B",
-        "phone": "+34123456790",
-        "photoUrl": "https://github.com/aksoonie/mindcare-db.json/assets/134560396/3d6261f4-4d5f-4475-9216-a7658ac4719f"
-      },
-      {
-        "id": "3",
-        "name": "María",
-        "lastName": "López",
-        "email": "maria.lopez@hotmail.com",
-        "dni": "12348765C",
-        "phone": "+34123456791",
-        "photoUrl": "https://github.com/aksoonie/mindcare-db.json/assets/134560396/82af9c27-f11b-43d4-8ca5-4a1f8ac9ce85"
       }
     ],
     "patients": [
@@ -41,32 +23,6 @@
         "description": "Pedro es un ingeniero de software con más de 10 años de experiencia en la industria tecnológica.",
         "gender": "Masculino",
         "birthday": "1984-06-15"
-      },
-      {
-        "id": "2",
-        "name": "Sofía",
-        "lastName": "Hernández",
-        "email": "sofia.hernandez@hotmail.com",
-        "dni": "87654321H",
-        "phone": "+34123456796",
-        "photoUrl": "https://github.com/aksoonie/mindcare-db.json/assets/134560396/c115d11e-3368-4a3d-83b4-2e84635c3258",
-        "occupation": "Maestra",
-        "description": "Sofía enseña matemáticas en una escuela secundaria y tiene pasión por la educación.",
-        "gender": "Femenino",
-        "birthday": "1990-04-22"
-      },
-      {
-        "id": "3",
-        "name": "Manuel",
-        "lastName": "Díaz",
-        "email": "manuel.diaz@hotmail.com",
-        "dni": "12345678I",
-        "phone": "+34123456797",
-        "photoUrl": "https://github.com/aksoonie/mindcare-db.json/assets/134560396/2d876353-abe7-402c-b73c-b2ce89565c62",
-        "occupation": "Médico",
-        "description": "Manuel es un médico general con un enfoque en la medicina familiar.",
-        "gender": "Masculino",
-        "birthday": "1980-11-10"
       }
     ],
     "dates": [
@@ -80,22 +36,6 @@
     "detail-course": [
       {
         "id": "1",
-        "description": "En este apartado encontrarás todo lo relacionado con el curso, también podrás ver los objetivos del curso y toda la información que te ofrecemos.",
-        "image": "https://github.com/CodepaceOrganization/Informes/assets/133830443/f696d7ba-f4ee-4caf-a2f1-723fa9e019ef",
-        "image2": "https://github.com/CodepaceOrganization/Informes/assets/133830443/35b0bdee-e26d-43c6-97a7-af58f22914d0",
-        "image3": "https://github.com/CodepaceOrganization/Informes/assets/133830443/445185ef-22aa-4d10-80df-f90ed2c3dc99",
-        "introduction": "Breve introducción del curso, qué cubrirá y cómo se desarrollará con el tiempo.",
-        "development": "Contenido completo del curso, tendrás acceso a videos informativos, cuestionarios que te ayudarán a reforzar lo aprendido, etc.",
-        "test": "Un examen final donde podrás aprobar tus habilidades y conocimientos que aprendiste a lo largo del curso.",
-        "goal1": "Comprender y aplicar correctamente los conceptos fundamentales de programación, como variables, operadores, estructuras de control, funciones, y arreglos.",
-        "goal2": "Adquirir experiencia práctica en el desarrollo de software, incluyendo la planificación, codificación, depuración, y pruebas de programas y aplicaciones.",
-        "goal3": "Construir proyectos prácticos, desde simples a complejos, para aplicar conocimientos teóricos en escenarios reales.",
-        "goal4": "Cultivar una mentalidad de aprendizaje continuo, capaz de adaptarse a las tendencias y cambios en tecnologías de programación.",
-        "goal5": "Desarrollar habilidades para analizar problemas, descomponerlos en componentes más pequeños, y proponer soluciones mediante la programación.",
-        "goal6": "Ser capaz de diseñar y desarrollar aplicaciones complejas que puedan abordar problemas del mundo real, utilizando un enfoque estructurado y modular."
-      },
-      {
-        "id": "2",
         "description": "En este apartado encontrarás todo lo relacionado con el curso, también podrás ver los objetivos del curso y toda la información que te ofrecemos.",
         "image": "https://github.com/CodepaceOrganization/Informes/assets/133830443/f696d7ba-f4ee-4caf-a2f1-723fa9e019ef",
         "image2": "https://github.com/CodepaceOrganization/Informes/assets/133830443/35b0bdee-e26d-43c6-97a7-af58f22914d0",
