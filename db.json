@@ -69,22 +69,5 @@
         "dni": "758945398",
         "phone": "935 789 111"
       }
-    ],
-    "information-patientfinance": [
-      {
-        "id": "1",
-        "name": "Alicia Ramirez Gonzales",
-        "age": "19 años",
-        "email": "alisongomezqy@hotmail.com",
-        "dni": "758953412",
-        "phone": "935 789 111",
-        "image": "https://github.com/si729-2401-WS51-grupo3/documentation/assets/133830443/f54a926c-c7f1-4f6c-b92e-53c46e8ea295",
-        "date": "07/05/2024",
-        "treatment": "Ansiedad",
-        "appointment": "Primera sesion",
-        "time": "9:00 AM",
-        "doctor": "Romina Caceres",
-        "import": "70"
-      }
     ]
   }
